@@ -1,0 +1,12 @@
+﻿1. Start
+2. Turn 45o left
+3. Go forward until stop
+4. Turn 90o right
+5. Go forward until stop
+6. Turn 90o left
+7. Go forward until stop
+8. Turn 90o right
+9. Go forward until stop
+10. Turn 135o right
+11. Maximum throttle towards pins (markers)
+12. End
